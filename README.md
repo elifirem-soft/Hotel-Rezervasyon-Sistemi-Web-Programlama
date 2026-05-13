@@ -1,5 +1,4 @@
 # Hotel-Rezervasyon-Sistemi-Web-Programlama
-PHP HTML CSS JS ve Bootstrap kullanıldı. 
 
 Bu proje, modern web geliştirme standartları kullanılarak hazırlanan, kullanıcı odaklı bir otel rezervasyon ve yönetim platformudur. Temel amacı, karmaşık rezervasyon süreçlerini hem kullanıcı hem de sistem tarafında en basit ve verimli hale getirmektir. Proje boyunca PHP’nin dinamik yapısı ile MySQL’in veri yönetim gücü birleştirilerek, gerçek zamanlı veri akışı sağlayan yaşayan bir sistem inşa edilmiştir.
 
