@@ -2,7 +2,7 @@
 
 Bu proje, modern web geliştirme standartları kullanılarak hazırlanan, kullanıcı odaklı bir otel rezervasyon ve yönetim platformudur. Temel amacı, karmaşık rezervasyon süreçlerini hem kullanıcı hem de sistem tarafında en basit ve verimli hale getirmektir.
 
-Neler Yaptım?
+--- Neler Yaptım?
 
 Mimari Yapı: Projenin odalar temelini oluşturan genel sayfa yapısını kurguladım.
 
@@ -10,7 +10,7 @@ Oda Yönetimi: Kullanıcıların odaları kolayca inceleyebilmesi için oda list
 
 Kullanıcı Deneyimi: Hem görsel bütünlüğü sağlamaya hem de kullanıcıların aradıkları bilgiye en hızlı şekilde ulaşabileceği işlevsel bir arayüz oluşturmaya odaklandım.
 
-Teknik Detaylar
+--- Teknik Detaylar
 
 Backend: PHP'nin dinamik yapısı ile MySQL'in veri yönetim gücünü birleştirerek gerçek zamanlı bir sistem inşa ettim.
 
@@ -18,7 +18,7 @@ Frontend: HTML5, CSS3 ve Bootstrap kullanarak projenin tüm cihazlarda (responsi
 
 Modüler Yapı: Temiz kod prensiplerine uygun, 8 ana dosyadan oluşan modüler bir mimari oluşturdum.
 
-Kurulum
+--- Kurulum
 
 Projenin yerel bir sunucu ortamına (Laragon) taşınması ve veritabanı yapılandırmasının ardından sistem saniyeler içinde kullanıma hazır hale gelmektedir.
 
