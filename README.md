@@ -5,13 +5,17 @@ Bu proje, modern web geliştirme standartları kullanılarak hazırlanan, kullan
 Neler Yaptım?
 
 Mimari Yapı: Projenin odalar temelini oluşturan genel sayfa yapısını kurguladım.
+
 Oda Yönetimi: Kullanıcıların odaları kolayca inceleyebilmesi için oda listeleme ve her odanın teknik detaylarını, imkanlarını ve görsellerini içeren oda detayları kısımlarını tamamladım.
+
 Kullanıcı Deneyimi: Hem görsel bütünlüğü sağlamaya hem de kullanıcıların aradıkları bilgiye en hızlı şekilde ulaşabileceği işlevsel bir arayüz oluşturmaya odaklandım.
 
 Teknik Detaylar
 
 Backend: PHP'nin dinamik yapısı ile MySQL'in veri yönetim gücünü birleştirerek gerçek zamanlı bir sistem inşa ettim.
+
 Frontend: HTML5, CSS3 ve Bootstrap kullanarak projenin tüm cihazlarda (responsive) kusursuz görünmesini sağladım. JavaScript ile arayüzü dinamik hale getirdim.
+
 Modüler Yapı: Temiz kod prensiplerine uygun, 8 ana dosyadan oluşan modüler bir mimari oluşturdum.
 
 Kurulum
