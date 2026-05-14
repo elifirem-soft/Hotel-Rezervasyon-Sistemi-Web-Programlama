@@ -16,7 +16,7 @@ Backend: PHP'nin dinamik yapısı ile MySQL'in veri yönetim gücünü birleşti
 
 Frontend: HTML5, CSS3 ve Bootstrap kullanarak projenin tüm cihazlarda (responsive) kusursuz görünmesini sağladım. JavaScript ile arayüzü dinamik hale getirdim.
 
-Modüler Yapı: Temiz kod prensiplerine uygun, 8 ana dosyadan oluşan modüler bir mimari oluşturdum.
+Modüler Yapı: Temiz kod prensiplerine uygun, 8 ana dosyadan oluşan modüler bir mimari oluşturuldu.
 
 --- Kurulum
 
